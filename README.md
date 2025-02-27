@@ -1,5 +1,5 @@
 # qBittorrent-keyboard-shortcuts
-Documentation of qBittorrent keyboard shortcuts as of qb 5.+
+Documentation of qBittorrent keyboard shortcuts
 
 ## Main Window
 
@@ -7,9 +7,9 @@ Documentation of qBittorrent keyboard shortcuts as of qb 5.+
 | :--- | :--- |
 | `Ctrl+O` | Add Torrent File
 | `Ctrl+Shift+O` | Add Torrent Link
-| `Ctrl+F or Ctrl+E | Filter Torrents or Filter Files (when in Content View)
-| `Ctrl+N | Torrent Creator
-| `Ctrl+I | Show Global Statistics
+| `Ctrl+F` or `Ctrl+E` | Filter Torrents or Filter Files (when in Content View)
+| `Ctrl+N` | Torrent Creator
+| `Ctrl+I` | Show Global Statistics
 | `TAB` | Cycle Main Window Widgets
 | `Ctrl-TAB` | Switch Between Main Window Tabs
 | |
