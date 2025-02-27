@@ -34,7 +34,7 @@ Documentation of qBittorrent keyboard shortcuts. Please note that some shortcuts
 | `Ctrl+M` | Force Start
 | `Ctrl+R` | Recheck
 | `Ctrl+A` | Select All
-| `Shift+UP` or `Shift+Down` | Select More Items
+| `Shift+Up` or `Shift+Down` | Select More Items
 | `Ctrl+Click` | Select More Items
 | |
 | `Ctrl++` | Increase Priority in Queue
