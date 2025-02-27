@@ -1,5 +1,5 @@
 # qBittorrent-keyboard-shortcuts
-Documentation of qBittorrent keyboard shortcuts
+Documentation of qBittorrent keyboard shortcuts. Please note that some shortcuts are standard Windows shortcuts for any application, they are listed just for convenience of who does not know them.
 
 ## Main Window
 
@@ -33,6 +33,9 @@ Documentation of qBittorrent keyboard shortcuts
 | `Ctrl+P` | Stop
 | `Ctrl+M` | Force Start
 | `Ctrl+R` | Recheck
+| `Ctrl+A` | Select All
+| `Shift+UP` or `Shift+Down` | Select More Items
+| `Ctrl+Click` | Select More Items
 | |
 | `Ctrl++` | Increase Priority in Queue
 | `Ctrl+-` | Decrease Priority in Queue
@@ -50,6 +53,7 @@ Documentation of qBittorrent keyboard shortcuts
 | `Alt+D` | Show Speed Widget
 | | 
 | `F2` | Rename Item (Torrent or its Content)
+| `Shift+F10` | Open Context Menu
 | `Return` | Double Click Action
 
 ## AutoHotkey
