@@ -57,4 +57,7 @@ Additional actions could be added via https://www.autohotkey.com using the follo
 
 `#IfWinActive ahk_class Qt673QWindowIcon`
 
+## Automation
+Other ways to automate tasks are via APIs, such as https://github.com/rmartin16/qbittorrent-api that is a comprehensive implementation in Python
+
 Good Luck
