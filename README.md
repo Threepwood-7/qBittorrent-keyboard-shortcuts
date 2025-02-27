@@ -32,25 +32,25 @@ Documentation of qBittorrent keyboard shortcuts
 | `Ctrl+S` | Start
 | `Ctrl+P` | Stop
 | `Ctrl+M` | Force Start
-| `Ctrl+R` | Recheck selected torrents
+| `Ctrl+R` | Recheck
 | |
 | `Ctrl++` | Increase Priority in Queue
 | `Ctrl+-` | Decrease Priority in Queue
 | `Ctrl+Shift++` | Top Priority in Queue
-| `Ctrl+Shift+-` | Minimum Priority
+| `Ctrl+Shift+-` | Minimum Priority in Queue
 | |
-| `Ctrl+Shift+P` | Stop All Torrents
-| `Ctrl+Shift+S` | Resume All Torrents
+| `Ctrl+Shift+P` | Stop All
+| `Ctrl+Shift+S` | Resume All
 | |
-| `Alt+G` | Show General widget
-| `Alt+C` | Show Trackers widget
-| `Alt+R` | Show Peerlist widget
-| `Alt+B` | Show HTTP Sources widget
-| `Alt+Z` | Show Content widget
-| `Alt+D` | Show Speed widget
+| `Alt+G` | Show General Widget
+| `Alt+C` | Show Trackers Widget
+| `Alt+R` | Show Peerlist Widget
+| `Alt+B` | Show HTTP Sources Widget
+| `Alt+Z` | Show Content Widget
+| `Alt+D` | Show Speed Widget
 | | 
 | `F2` | Rename Item (Torrent or its Content)
-| `Return` | Double click action
+| `Return` | Double Click Action
 
 ## AutoHotkey
 Additional actions could be added via https://www.autohotkey.com using the following clause
