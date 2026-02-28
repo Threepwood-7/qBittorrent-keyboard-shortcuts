@@ -52,6 +52,7 @@ Documentation of qBittorrent keyboard shortcuts. Please note that some shortcuts
 | `Alt+Z` | Show Content Widget
 | `Alt+D` | Show Speed Widget
 | | 
+| `F1` | Open doc.qbittorrent.org
 | `F2` | Rename Item (Torrent or its Content)
 | `Shift+F10` | Open Context Menu
 | `Return` | Double Click Action
